@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 IT
 CSE
 ECE
@@ -5,3 +6,12 @@ EEE
 DS
 AIML
 CS
+=======
+nag
+uday
+pulli
+murali
+avi
+govi
+q
+>>>>>>> fb
