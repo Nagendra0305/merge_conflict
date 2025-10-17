@@ -1,0 +1,7 @@
+it
+cse
+ece
+eee
+aiml
+cs
+ds
